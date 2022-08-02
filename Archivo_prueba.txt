@@ -1,1 +1,2 @@
 Este Archivo es de prueba para el curso de Git en Platzi.
+Este es un cambio hecho desde el repositorio en Git
